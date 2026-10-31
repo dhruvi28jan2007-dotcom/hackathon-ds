@@ -1,7 +1,7 @@
 # HACKATHON.md
  
 ## Team name
-Team AXION
+Team AXIOM
  
 ## Team members
 - DEWADI SRIVASTAVA
